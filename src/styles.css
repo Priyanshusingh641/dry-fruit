@@ -54,3 +54,25 @@ body
     background-repeat: no-repeat;
     background-attachment: fixed;
 }
+@media (max-width: 1040px) 
+{
+    .cont_three{
+        left: 35%;
+    }
+    
+}
+@media (max-width: 796px) 
+{
+    .cont_three{
+        left: 30%;
+    }
+    
+}
+@media (max-width: 480px) 
+{
+    .cont_three{
+        
+        left: 0%;
+    }
+    
+}
